@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"flex-",
+				"flex-flow"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"lo",
+				"local"
+			],
+			[
+				"re",
+				"repository"
+			],
+			[
+				"auto",
+				"automative"
+			],
+			[
+				"place",
+				"placekitten.com/250/150"
+			],
+			[
+				"col",
+				"col-md-12"
+			],
+			[
+				"git",
+				"git_diff.PNG"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"moive",
+				"movie_title"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/full_stack/note/2016.md",
+			"settings":
+			{
+				"buffer_size": 9077,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/full_stack/note/myCSS.md",
+			"settings":
+			{
+				"buffer_size": 2991,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Q 1-2\nhttp://www.eia.gov/todayinenergy/detail.php?id=17171\nhttp://www.eia.gov/outlooks/aeo/section_deliveredenergy.cfm\n\nQ 3-11\nhttp://www.eia.gov/tools/faqs/faq.cfm?id=19&t=3\nhttp://www.eia.gov/todayinenergy/detail.php?id=26532",
+			"settings":
+			{
+				"buffer_size": 227,
+				"line_ending": "Windows",
+				"name": "Q 1-2"
+			}
+		},
+		{
+			"file": "/D/GoogleDrive/MiniProgram/miniProgramNotes.md",
+			"settings":
+			{
+				"buffer_size": 688,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Snippet: For Loop"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown Pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 725.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"python",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Install Package OmniMarkupPreviewer",
+			"Install Package",
+			"import urllib2,os;"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/GoogleDrive/full_stack/front_end_experiment/datepicker.html",
+		"/D/GoogleDrive/full_stack/sum.md",
+		"/D/GoogleDrive/full_stack/front_end_experiment/dashboard.js",
+		"/C/Users/cozygank2/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/cozygank2/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/D/GoogleDrive/full_stack/front_end_experiment/main.css",
+		"/D/GoogleDrive/full_stack/front_end_experiment/chart/chart.js",
+		"/D/GoogleDrive/full_stack/front_end_experiment/chart/chart.css",
+		"/D/GoogleDrive/full_stack/front_end_experiment/index.html",
+		"/D/GoogleDrive/full_stack/front_end_experiment/chart/chart.html",
+		"/C/Users/cozygank2/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/Default.sublime-keymap",
+		"/D/full_stack/code/proj2_protfolio/download_sample/responsive_pattern/Start/main.css",
+		"/D/full_stack/code/proj2_protfolio/download_sample/responsive_pattern/Solution/responsive.css",
+		"/D/full_stack/code/proj2_protfolio/download_sample/responsive_pattern/Solution/main.css",
+		"/D/full_stack/code/proj2_protfolio/download_sample/responsive_pattern/Solution/index.html",
+		"/D/full_stack/code/proj2_protfolio/download_sample/responsive_pattern/Start/responsive.css",
+		"/D/full_stack/code/proj2_protfolio/download_sample/responsive_pattern/Start/index.html",
+		"/D/full_stack/note/y.md",
+		"/C/Users/cozygank2/Dropbox/my_project/self_management/v1.css",
+		"/C/Users/cozygank2/Dropbox/my_project/self_management/v1.html",
+		"/D/full_stack/note/elective.md",
+		"/C/Users/cozygank2/Dropbox/my_presentation/demo/a.txt",
+		"/D/full_stack/code/proj2_protfolio/download_sample/Start_ans/Start/main.css",
+		"/D/full_stack/code/proj2_protfolio/download_sample/Start_ans/Start/index.html",
+		"/D/full_stack/code/proj2_protfolio/download_sample/Start/main.css",
+		"/D/full_stack/code/proj2_protfolio/download_sample/Start/index.html",
+		"/D/full_stack/code/git_github/recipes/chili-recipe.txt",
+		"/D/full_stack/code/git_github/recipes/cake-recipe.txt",
+		"/D/full_stack/code/git_github/reflections/lesson_3_reflections.txt",
+		"/D/full_stack/code/proj2_protfolio/download_sample/pattern-mostly-fluid-quiz-blankcss.html",
+		"/D/full_stack/code/git_github/sarah_changes.sh",
+		"/D/full_stack/code/git_github/reflections/lesson_2_reflection.txt",
+		"/D/full_stack/code/git_github/reflections/lesson_2_reflection_prompts.txt",
+		"/D/full_stack/code/git_github/reflections/lesson_2_reflections.txt",
+		"/D/full_stack/chinese_full_stack/jstraining/demos/recharts-demo/index.html",
+		"/D/full_stack/chinese_full_stack/jstraining/demos/react-lifecycle-demo/index.html",
+		"/D/full_stack/chinese_full_stack/jstraining/demos/react-component-demo/index3.html",
+		"/D/full_stack/chinese_full_stack/jstraining/demos/react-component-demo/index2.html",
+		"/D/full_stack/chinese_full_stack/jstraining/demos/react-component-demo/index4.html",
+		"/D/full_stack/code/proj2_protfolio/portfolio/framework/portfolio.html",
+		"/D/full_stack/code/proj2_protfolio/portfolio/framework/test.html",
+		"/D/full_stack/chinese_full_stack/jstraining/demos/react-component-demo/index1.html",
+		"/D/full_stack/chinese_full_stack/jstraining/demos/jsx-demo/index.html",
+		"/D/full_stack/chinese_full_stack/jstraining/README.md",
+		"/D/full_stack/code/proj2_protfolio/portfolio/framework/portfolio2_bootstrap.html",
+		"/D/full_stack/code/proj2_protfolio/portfolio/framework/css/style.css",
+		"/D/full_stack/code/proj2_protfolio/portfolio/framework/css/main.css",
+		"/D/full_stack/code/proj2_protfolio/download_sample/bootstrap-prestructure/bootstrap-prestructure.htm",
+		"/D/full_stack/code/proj2_protfolio/bootstrap/css/bootstrap.css",
+		"/D/full_stack/code/proj2_protfolio/bootstrap/css/bootstrap.min.css",
+		"/D/full_stack/test/1.txt",
+		"/D/full_stack/code/git_github/reflections/lesson_2_reflection",
+		"/D/full_stack/code/git_github/l1/asteroids/game.js",
+		"/D/full_stack/code/git_github/reflections/l2",
+		"/D/full_stack/chinese_full_stack/jstraining/demos/vue-demo/app2.js",
+		"/D/full_stack/chinese_full_stack/jstraining/demos/vue-demo/index2.html",
+		"/D/full_stack/chinese_full_stack/jstraining/demos/vue-demo/index1.html",
+		"/D/full_stack/chinese_full_stack/jstraining/demos/vue-demo/app1.js",
+		"/D/full_stack/code/git_github/lesson_1_refelections.txt",
+		"/D/full_stack/code/git_github/l2/cake-recipe.txt",
+		"/D/full_stack/code/git_github/l2/chili-recipe.txt",
+		"/D/full_stack/code/git_github/l2/frosting-recipe.txt",
+		"/D/full_stack/note/test.py",
+		"/D/full_stack/note/oct_2016.md",
+		"/D/full_stack/moive_trailer.py",
+		"/D/full_stack/entertainment_center.py",
+		"/D/full_stack/python/proj2/portfolio/framework/portfolio.html",
+		"/D/full_stack/python/proj2/portfolio/framework/css/main.css",
+		"/D/full_stack/python/proj2/framework/Framework_Test_page.html",
+		"/D/full_stack/python/proj2/framework/css/main.css",
+		"/D/full_stack/python/proj2/portfolio/framework/test.html",
+		"/D/full_stack/python/proj2/framework/test.html",
+		"/D/full_stack/python/proj2/portfolio/toplist/style.css",
+		"/D/full_stack/python/proj2/portfolio/toplist/index.html",
+		"/C/Users/cozygank2/AppData/Roaming/Sublime Text 3/Packages/User/JSCS-Formatter.sublime-settings",
+		"/D/full_stack/python/proj2/portfolio/toplist/app.html",
+		"/D/full_stack/python/proj2/app.html",
+		"/D/full_stack/python/proj1/entertainment_center.py",
+		"/D/full_stack/python/proj1/README.md",
+		"/D/full_stack/python/proj1/media.py",
+		"/D/full_stack/python/proj1/fresh_tomatoes.py",
+		"/C/Users/cozygank2/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/D/full_stack/python/fresh_tomatoes.py",
+		"/D/full_stack/python/entertainment_center.py",
+		"/D/full_stack/python/media.py",
+		"/C/Users/cozygank2/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/cozygank2/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/full_stack/python/fresh_tomatoes.",
+		"/D/full_stack/python/profanity_check.py",
+		"/D/full_stack/python/twilio_sendMessage.py",
+		"/D/full_stack/python/test_twilio.py",
+		"/D/full_stack/python/draw_turtle.py",
+		"/D/full_stack/python/turtle.py",
+		"/C/Users/cozygank2/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/D/full_stack/note/oct_2016.txt",
+		"/C/Users/cozygank2/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/D/full_stack/python/twilio.py",
+		"/C/Users/cozygank2/test.py",
+		"/C/Users/cozygank2/Dropbox/2016Spring/SQL/duke/w1.md",
+		"/C/Users/cozygank2/Dropbox/Computer/DS/python/xgboost/README.md",
+		"/D/GoogleDrive/2016S/edxSpark/quizz.md",
+		"/C/Users/cozygank2/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav",
+			"67",
+			"float",
+			"section",
+			";\n",
+			"a {",
+			"a",
+			"content",
+			"news",
+			"section",
+			"text-thin",
+			">\n",
+			"<<<<<<<",
+			"coins",
+			"delayBeforeBullet",
+			"Twilio",
+			"twilio",
+			")",
+			"import twilio\nprint(twilio.__version__)",
+			"small",
+			"dog",
+			"def",
+			"pencolor",
+			"tur",
+			"er",
+			"tur",
+			"from twilio.rest import TwilioRestClient\n\naccount_sid = \"ACce7913ddf6512a4e65c5cf59b673bf24\" # Your Account SID from www.twilio.com/console\nauth_token  = \"4c0f1d13373479061b5692c61578f030\"  # Your Auth Token from www.twilio.com/console\n\nclient = TwilioRestClient(account_sid, auth_token)\n\nmessage = client.messages.create(\n    body=\"Hello from Python\",\n    to=\"+19186309537\",    # Replace with your phone number\n    from_=\"+19187704308\") # Replace with your Twilio number\n\nprint(message.sid)",
+			"go",
+			"},\n",
+			"close_window"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/full_stack/note/2016.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9077,
+								9077
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/MarkdownEditor.tmTheme",
+							"parser": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 11213.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/full_stack/note/myCSS.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2737,
+								2737
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/MarkdownEditor.tmTheme",
+							"parser": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6072.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Q 1-2",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/GoogleDrive/MiniProgram/miniProgramNotes.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								661,
+								661
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"parser": null,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 984.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "myNodeLearn.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
